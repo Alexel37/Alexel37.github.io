@@ -735,5 +735,23 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Astral Buddy',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            },
+            {
+                name: '03',
+                purchased: false
+            }
+        ]
     }
 ]
