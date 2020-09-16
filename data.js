@@ -463,5 +463,71 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Kagaku no Railgun',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            },
+            {
+                name: '03',
+                purchased: false
+            },
+            {
+                name: '04',
+                purchased: false
+            },
+            {
+                name: '05',
+                purchased: false
+            },
+            {
+                name: '06',
+                purchased: false
+            },
+            {
+                name: '07',
+                purchased: false
+            },
+            {
+                name: '08',
+                purchased: false
+            },
+            {
+                name: '09',
+                purchased: false
+            },
+            {
+                name: '10',
+                purchased: false
+            },
+            {
+                name: '11',
+                purchased: false
+            },
+            {
+                name: '12',
+                purchased: false
+            },
+            {
+                name: '13',
+                purchased: false
+            },
+            {
+                name: '14',
+                purchased: false
+            },
+            {
+                name: '15',
+                purchased: false
+            }
+        ]
     }
 ]
