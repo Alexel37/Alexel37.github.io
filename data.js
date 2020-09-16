@@ -667,7 +667,7 @@ var data =
             {
                 name: '08',
                 purchased: false
-            },
+            }
         ]
     },
     {
@@ -705,7 +705,17 @@ var data =
             {
                 name: '08',
                 purchased: false
-            },
+            }
+        ]
+    },
+    {
+        name: 'Pseudepigrapha Railgun',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
         ]
     }
 ]
