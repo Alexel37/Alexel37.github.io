@@ -453,5 +453,15 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Haimura Kiyotaka Artbook rainbow spectrum: colors',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
+        ]
     }
 ]
