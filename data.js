@@ -439,5 +439,19 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Majutsu no Index: Miracle of Endymion',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            }
+        ]
     }
 ]
