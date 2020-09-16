@@ -605,5 +605,31 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Nichijou no Index-san',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            },
+            {
+                name: '03',
+                purchased: false
+            },
+            {
+                name: '04',
+                purchased: false
+            },
+            {
+                name: '05',
+                purchased: false
+            }
+        ]
     }
 ]
