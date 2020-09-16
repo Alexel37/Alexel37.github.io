@@ -429,5 +429,15 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Majutsu no Index: Road to Endymion',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
+        ]
     }
 ]
