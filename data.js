@@ -583,5 +583,27 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Idol no Accelerator-sama',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            },
+            {
+                name: '03',
+                purchased: false
+            },
+            {
+                name: '04',
+                purchased: false
+            }
+        ]
     }
 ]
