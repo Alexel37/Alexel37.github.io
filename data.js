@@ -767,5 +767,15 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Kagaku no Railgun: Cold Game',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
+        ]
     }
 ]
