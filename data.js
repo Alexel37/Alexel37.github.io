@@ -753,5 +753,19 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Koushiki Comic Anthology: Toaru Kagaku no Railgun featuring Toaru Majutsu no Index',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            }
+        ]
     }
 ]
