@@ -845,5 +845,25 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Kagaku no Dark Matter',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
+        ]
+    },
+    {
+        name: 'Toaru Kagaku no Railgun with Toaru Kagaku no Accelerator Comic Anthology Dear',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            }
+        ]
     }
 ]
