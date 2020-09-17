@@ -815,5 +815,35 @@ var data =
                 purchased: false
             }
         ]
+    },
+    {
+        name: 'Toaru Majutsu no Index SS: Biohacker',
+        list:
+        [
+            {
+                name: '01',
+                purchased: false
+            },
+            {
+                name: '02',
+                purchased: false
+            },
+            {
+                name: '03',
+                purchased: false
+            },
+            {
+                name: '04',
+                purchased: false
+            },
+            {
+                name: '05',
+                purchased: false
+            },
+            {
+                name: '06',
+                purchased: false
+            }
+        ]
     }
 ]
